@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GodlYash
+- 👋 Hi, I’m Yash Jadhav
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Web development
 - 💞️ I’m looking to collaborate on ...
